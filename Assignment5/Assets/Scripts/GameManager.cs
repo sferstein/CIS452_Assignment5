@@ -5,6 +5,13 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
 
+/*
+ * Sam Ferstein
+ * GameManager.cs
+ * Assignment 5
+ * This is the game manager file to control the game.
+ */
+
 public class GameManager : MonoBehaviour
 {
     public GameObject titleScreen;

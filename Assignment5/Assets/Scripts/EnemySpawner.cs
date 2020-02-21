@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * EnemySpawner.cs
+ * Assignment 5
+ * This is the enemy spawner class.
+ */
+
 public class EnemySpawner : MonoBehaviour
 {
     public SimpleEnemyFactory factory;

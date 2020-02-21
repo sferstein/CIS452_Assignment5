@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * SimplePrefabFactory.cs
+ * Assignment 5
+ * This is the prefab factory to help spawn the prefabs in the factory pattern.
+ */
+
 public class SimplePrefabFactory : MonoBehaviour
 {
     public GameObject CarPrefab;

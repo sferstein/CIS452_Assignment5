@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * PlayerController.cs
+ * Assignment 5
+ * This controls the player movement.
+ */
+
 public class PlayerController : MonoBehaviour
 {
     public float horizontalInput;
